@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-CryptoTracker/static/css/main.b3aca61f.chunk.css",
+    "main.js": "/React-CryptoTracker/static/js/main.42cc9b81.chunk.js",
+    "main.js.map": "/React-CryptoTracker/static/js/main.42cc9b81.chunk.js.map",
+    "runtime-main.js": "/React-CryptoTracker/static/js/runtime-main.154c52bc.js",
+    "runtime-main.js.map": "/React-CryptoTracker/static/js/runtime-main.154c52bc.js.map",
+    "static/js/2.96497c05.chunk.js": "/React-CryptoTracker/static/js/2.96497c05.chunk.js",
+    "static/js/2.96497c05.chunk.js.map": "/React-CryptoTracker/static/js/2.96497c05.chunk.js.map",
+    "index.html": "/React-CryptoTracker/index.html",
+    "static/css/main.b3aca61f.chunk.css.map": "/React-CryptoTracker/static/css/main.b3aca61f.chunk.css.map",
+    "static/js/2.96497c05.chunk.js.LICENSE.txt": "/React-CryptoTracker/static/js/2.96497c05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154c52bc.js",
+    "static/js/2.96497c05.chunk.js",
+    "static/css/main.b3aca61f.chunk.css",
+    "static/js/main.42cc9b81.chunk.js"
+  ]
+}
