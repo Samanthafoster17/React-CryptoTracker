@@ -19,6 +19,8 @@
 
 - [Image](#image)
 
+- [Link](#link) 
+
 
 ## Description
 Allows users to view data of various cryptocurrencies 
@@ -46,4 +48,7 @@ You may view GitHub profile here:
 
 ## Image
 ![image](https://user-images.githubusercontent.com/68489432/118384626-935ded80-b5d5-11eb-8fa3-41eb31b78a50.png)
+
+## Link
+https://samanthafoster17.github.io/React-CryptoTracker/
 
